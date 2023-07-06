@@ -52,12 +52,12 @@ To reduce churn, it is recommended to adjust product pricing and consider provid
 These insights provide valuable information for enhancing subscription revenue and reducing churn in the supplement ecommerce Shopify store. By addressing pricing concerns, analyzing customer feedback, and focusing on customer preferences, the store can increase subscriber retention and overall revenue.
 
 
-##Uncleaned Data
+## Uncleaned Data
 
 
 https://github.com/Sgautam0901/Shopify_Store_Analysis/assets/108050278/aa63fc15-95a6-4221-bd44-cfbc5d831e19
 
-##Cleaned Data
+## Cleaned Data
 
 
 
